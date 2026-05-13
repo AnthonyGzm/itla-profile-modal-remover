@@ -102,4 +102,4 @@ document.body.style.overflow = 'auto';
 ## Autor
 
 **Anthony Guzman**
-GitHub: [@anthonygzm](https://github.com/anthonygzm) · LinkedIn: [anthonyguzm](https://linkedin.com/in/anthonyguzm/)
+GitHub: [@anthonygzm](https://github.com/anthonygzm) 
