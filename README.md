@@ -31,7 +31,7 @@ Bloquea toda la página y no te deja hacer nada. Este estilo lo oculta permanent
 
 ## Instalación
 
-### 1️⃣ Instala Stylus
+### Instala Stylus
 
 Stylus es una extensión gratuita para aplicar CSS personalizado en cualquier sitio web.
 
@@ -43,7 +43,7 @@ Stylus es una extensión gratuita para aplicar CSS personalizado en cualquier si
 
 ---
 
-### 2️⃣ Crea el estilo
+### Crea el estilo
 
 1. Haz clic en el ícono de **Stylus** en tu navegador
 2. Selecciona **"Escribir nuevo estilo"**
@@ -102,4 +102,4 @@ document.body.style.overflow = 'auto';
 ## Autor
 
 **Anthony Guzman**
-GitHub: [@anthonygzm](https://github.com/anthonygzm) · LinkedIn: [anthonyguzm](https://linkedin.com/in/anthonyguzm/)
+GitHub: [@anthonygzm](https://github.com/anthonygzm) 
