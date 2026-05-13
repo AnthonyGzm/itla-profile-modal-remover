@@ -1,0 +1,13 @@
+@-moz-document domain("aulavirtual.itla.edu.do") {
+  #asgp-overlay {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+  body.asgp-locked {
+    overflow: auto !important;
+    position: static !important;
+    height: auto !important;
+  }
+}
