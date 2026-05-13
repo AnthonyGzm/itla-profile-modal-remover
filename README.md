@@ -2,7 +2,7 @@
 
 # itla-profile-modal-remover
 
-**Elimina el molesto modal obligatorio de foto de perfil del Aula Virtual del ITLA — automáticamente y sin interrupciones.**
+**Elimina el molesto modal obligatorio de foto de perfil del Aula Virtual del ITLA automáticamente y sin interrupciones.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Stylus](https://img.shields.io/badge/Stylus-CSS-orange)](https://add0n.com/stylus.html)
